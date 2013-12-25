@@ -213,3 +213,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/bsp/stm32f10x/rtthread-stm32

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="98,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{0544D573-6157-428f-9CC8-949F9EFCC21A}" Name="project" ACTCFG="rtthread-stm32">
+            <TARGOPT Name="rtthread-stm32" OPTDF="0">
+                <OPTFFF VAL="&lt;..\..\src\irq.c&gt; {0,1,-1,-1,22,29,1042,391,67,1583}" />
+                <OPTFFF VAL="&lt;..\..\libcpu\arm\cortex-m3\context_rvds.s&gt; {0,1,-1,-1,22,29,1098,325,33,1155}" />
+                <OPTFFF VAL="&lt;.\rtconfig.h&gt; {0,1,-1,-1,44,58,1120,338,140,3618}" />
+                <OPTFFF VAL="&lt;..\..\src\thread.c&gt; {0,1,-1,-1,66,87,1142,383,293,9069}" />
+                <OPTFFF VAL="&lt;..\..\include\rtm.h&gt; {0,1,-1,-1,44,58,1064,420,8,464}" />
+                <OPTFFF VAL="&lt;.\startup.c&gt; {0,1,-1,-1,0,0,1020,337,130,3049}" />
+                <OPTFFF VAL="&lt;..\..\src\device.c&gt; {0,1,-1,-1,88,116,1164,412,66,1848}" />
+                <OPTFFF VAL="&lt;.\board.c&gt; {0,1,-1,-1,0,0,1020,337,167,5960}" />
+                <OPTFFF VAL="&lt;.\stm32f10x_it.c&gt; {0,1,-1,-1,22,29,1098,325,180,4681}" />
+                <OPTFFF VAL="&lt;.\libraries\cmsis\cm3\devicesupport\st\stm32f10x\stm32f10x.h&gt; {0,1,-1,-1,22,29,1120,241,4694,328854}" />
+                <OPTFFF VAL="&lt;.\led.c&gt; {0,1,-1,-1,22,29,1098,325,145,3791}" />
+                <OPTFFF VAL="&lt;.\stm3210c_eval_lcd.c&gt; {0,1,-1,-1,0,0,1020,337,534,16069}" />
+                <OPTFFF VAL="&lt;.\board.h&gt; {0,1,-1,-1,44,58,1120,375,52,895}" />
+                <OPTFFF VAL="&lt;..\..\src\kservice.c&gt; {0,1,-1,-1,66,87,1142,404,219,5002}" />
+                <OPTFFF VAL="&lt;..\..\include\rtdebug.h&gt; {0,1,-1,-1,66,87,1142,367,51,1272}" />
+                <OPTFFF VAL="&lt;.\usart.c&gt; {0,1,-1,-1,22,29,1098,325,207,5207}" />
+                <OPTFFF VAL="&lt;.\libraries\stm32f10x_stdperiph_driver\src\stm32f10x_rtc.c&gt; {0,1,-1,-1,22,29,1098,325,212,5449}" />
+                <OPTFFF VAL="&lt;.\led.h&gt; {0,1,-1,-1,22,29,1098,325,8,609}" />
+                <OPTFFF VAL="&lt;.\rtconfig.h.bak&gt; {0,1,-1,-1,0,0,1020,337,53,1256}" />
+                <OPTFFF VAL="&lt;.\_touch.c&gt; {0,1,-1,-1,0,0,1020,337,463,14179}" />
+                <OPTFFF VAL="&lt;..\..\src\mem.c&gt; {0,1,-1,-1,22,29,1098,309,174,5285}" />
+                <OPTFFF VAL="&lt;.\rtc.c&gt; {0,1,-1,-1,22,29,1098,325,122,3313}" />
+                <OPTFFF VAL="&lt;..\..\components\finsh\finsh.h&gt; {0,1,-1,-1,44,58,1120,354,178,5745}" />
+                <OPTFFF VAL="&lt;.\application.c&gt; {0,1,-1,-1,0,0,1076,296,150,3076}" />
+                <OPTFFF VAL="&lt;.\libraries\cmsis\cm3\devicesupport\st\stm32f10x\startup\arm\startup_stm32f10x_hd.s&gt; {0,1,-1,-1,22,29,1098,325,155,8536}" />
+                <OPTFFF VAL="&lt;..\..\src\clock.c&gt; {2,3,-1,-1,0,0,1076,280,25,1115}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>
